@@ -1,0 +1,68 @@
+.area{
+    width: 1200px;
+    height: 100px;
+    
+    margin: auto;
+}
+
+.up-area{
+    width: 1200px;
+    height: 65px;
+    
+    margin: auto;
+}
+
+.down-area{
+    width: 1200px;
+    height: 65px;
+    
+    margin: auto;
+    font-size: 13px;
+}
+p
+{
+    
+    text-align: center;
+}
+input{
+    text-align: center;
+    
+}
+
+
+
+.clear{
+    clear: both;
+}
+
+.card{
+    background-color: #7EE5DA;
+    width: 450px;
+    height: 60px;
+    float: left;
+    padding-top: 20px;
+    
+    
+}
+
+.card2
+{
+    background-color: #70CCC2;
+    width: 290px;
+    height: 70px;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 10px;
+    
+}
+
+.card3{
+    background-color: #62B3AA;
+    width: 450px;
+    height: 80px;
+    float: left;
+    
+    
+    
+}
